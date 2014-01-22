@@ -25,6 +25,12 @@ Below you can find information about installed software.
 
 Ruby versions are available via [rbenv](https://github.com/sstephenson/rbenv/). If you need to install an additional version, please check [this guide](/docs/installing-additional-version-of-ruby.html).
 
+### Node.js versions
+* 0.11
+* 0.10
+* 0.8
+
+Node.js versions are managed by [nvm](https://github.com/creationix/nvm) and you can install an additional version by following [this guide](/docs/installing-additional-version-of-nodejs.html).
 ### Database engines
 
 * PostgreSQL (9.3.1)
