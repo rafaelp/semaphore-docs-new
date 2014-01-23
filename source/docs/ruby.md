@@ -8,4 +8,4 @@ Semaphore uses [rbenv](https://github.com/sstephenson/rbenv) for managing Ruby v
 
 Before the commands are executed, we'll delete the `.ruby-version` file for you and use the selected version.
 
-For a list of supported Ruby versions, checkout out our [stack](/docs/supported-stack.html) (batteries included).
+For a list of supported Ruby versions, checkout out our [stack](/docs/supported-stack.html#ruby_versions) (batteries included).

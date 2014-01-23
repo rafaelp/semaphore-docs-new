@@ -12,7 +12,7 @@ If you would like another language to be included out of the box, [send us email
 
 Below you can find information about installed software.
 
-### Ruby versions
+### <a name="ruby_versions" href="#ruby_versions">Ruby versions </a>
 
 * 2.1.0
 * 2.0.0-p353
@@ -25,7 +25,7 @@ Below you can find information about installed software.
 
 Ruby versions are available via [rbenv](https://github.com/sstephenson/rbenv/). If you need to install an additional version, please check [this guide](/docs/installing-additional-version-of-ruby.html).
 
-### Node.js versions
+### <a name="node_version" href="#node_versions">Node.js versions</a>
 * 0.11
 * 0.10
 * 0.8
